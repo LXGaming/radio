@@ -1,0 +1,437 @@
+{
+    "lastUpdate": 0,
+    "stations": [
+        {
+            "name": "Radio Dunedin",
+            "url": "http://www.radiodunedin.co.nz/",
+            "website": "www.radiodunedin.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/Dunedin_96kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Edge",
+            "url": "http://www.theedge.co.nz/",
+            "website": "www.theedge.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/TheEdge_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Rock",
+            "url": "http://www.therock.net.nz/",
+            "website": "www.therock.net.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/TheRock_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Sound",
+            "url": "http://www.thesound.co.nz/",
+            "website": "www.thesound.co.nz",
+            "bitrate": 128,
+            "source": "http://icecast.mediaworks.co.nz:8000/TheSound_128kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Sound",
+            "url": "http://www.thesound.co.nz/",
+            "website": "www.thesound.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/TheSound_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Breeze Christchurch",
+            "url": "http://www.thebreeze.co.nz/",
+            "website": "www.thebreeze.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/breezechc",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Breeze Manawatu",
+            "url": "http://www.thebreeze.co.nz/",
+            "website": "www.thebreeze.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/breezemtu",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Breeze Nelson",
+            "url": "http://www.thebreeze.co.nz/",
+            "website": "www.thebreeze.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/breezenelson",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "George FM",
+            "url": "http://www.georgefm.co.nz/",
+            "website": "www.georgefm.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/georgefm",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "George FM",
+            "url": "http://www.georgefm.co.nz/",
+            "website": "www.georgefm.co.nz",
+            "bitrate": 128,
+            "source": "http://icecast.mediaworks.co.nz:8000/georgefm_128kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "George FM",
+            "url": "http://www.georgefm.co.nz/",
+            "website": "www.georgefm.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/georgefm_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Magic Auckland",
+            "url": "http://www.magic.co.nz/",
+            "website": "www.magic.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/magic_auckland",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Magic Christchurch",
+            "url": "http://www.magic.co.nz/",
+            "website": "www.magic.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/magic_christchurch",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Magic Wellington",
+            "url": "http://www.magic.co.nz/",
+            "website": "www.magic.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/magic_wellington",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Magic Auckland",
+            "url": "http://www.magic.co.nz/",
+            "website": "www.magic.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/magicakl_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Magic Christchurch",
+            "url": "http://www.magic.co.nz/",
+            "website": "www.magic.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/magicchch_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Magic Wellington",
+            "url": "http://www.magic.co.nz/",
+            "website": "www.magic.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/magicwgtn_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Mai FM",
+            "url": "http://www.maifm.co.nz/",
+            "website": "www.maifm.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/maifm",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Mai FM",
+            "url": "http://www.maifm.co.nz/",
+            "website": "www.maifm.co.nz",
+            "bitrate": 128,
+            "source": "http://icecast.mediaworks.co.nz:8000/maifm_128kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Mai FM",
+            "url": "http://www.maifm.co.nz/",
+            "website": "www.maifm.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/maifm_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Auckland",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmakl",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Auckland",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 128,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmakl_128kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Blenheim",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmblm",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Christchurch",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmchc",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Christchurch",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmchc_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Dunedin",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmdun",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Gisborne",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmgis",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Hamilton",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmham",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Hastings",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmhast",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Masterton",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmmast",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Manawatu",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmmtu",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Nelson",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmnel",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Orewa",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmorewa_64kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Southland",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmsouthland",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Taupo",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmtaupo",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Tauranga",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmtga",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Taranaki",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmtkn",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Whangarei",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmwga",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Wellington",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmwgtn",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "More FM Wellington",
+            "url": "http://www.morefm.co.nz/",
+            "website": "www.morefm.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/morefmwgtn_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Radio Live",
+            "url": "http://www.radiolive.co.nz/",
+            "website": "www.radiolive.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/radiolive",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Radio Live",
+            "url": "http://www.radiolive.co.nz/",
+            "website": "www.radiolive.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/radiolive_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Breeze Auckland",
+            "url": "http://www.thebreeze.co.nz/",
+            "website": "www.thebreeze.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/thebreezeakl",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Breeze Auckland",
+            "url": "http://www.thebreeze.co.nz/",
+            "website": "www.thebreeze.co.nz",
+            "bitrate": 128,
+            "source": "http://icecast.mediaworks.co.nz:8000/thebreezeakl_128kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Breeze Auckland",
+            "url": "http://www.thebreeze.co.nz/",
+            "website": "www.thebreeze.co.nz",
+            "bitrate": 32,
+            "source": "http://icecast.mediaworks.co.nz:8000/thebreezeakl_32kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Breeze Hamilton",
+            "url": "http://www.thebreeze.co.nz/",
+            "website": "www.thebreeze.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/thebreezeham",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Breeze Wellington",
+            "url": "http://www.thebreeze.co.nz/",
+            "website": "www.thebreeze.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/thebreezewgtn",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Edge",
+            "url": "http://www.theedge.co.nz/",
+            "website": "www.theedge.co.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/theedge",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Edge",
+            "url": "http://www.theedge.co.nz/",
+            "website": "www.theedge.co.nz",
+            "bitrate": 128,
+            "source": "http://icecast.mediaworks.co.nz:8000/theedge_128kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Rock",
+            "url": "http://www.therock.net.nz/",
+            "website": "www.therock.net.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/therock",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Rock",
+            "url": "http://www.therock.net.nz/",
+            "website": "www.therock.net.nz",
+            "bitrate": 128,
+            "source": "http://icecast.mediaworks.co.nz:8000/therock_128kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Rock",
+            "url": "http://www.therock.net.nz/",
+            "website": "www.therock.net.nz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/therock_96kbps",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "The Sound",
+            "url": "http://www.thesound.co.nz/",
+            "website": "www.thesound.co.nz",
+            "bitrate": 64,
+            "source": "http://icecast.mediaworks.co.nz:8000/thesound",
+            "type": "audio/mpeg"
+        },
+        {
+            "name": "Times FM Orewa",
+            "url": "http://www.timesfm.co.tz/",
+            "website": "www.timesfm.co.tz",
+            "bitrate": 96,
+            "source": "http://icecast.mediaworks.co.nz:8000/timesfmorewa",
+            "type": "audio/mpeg"
+        }
+    ]
+}
