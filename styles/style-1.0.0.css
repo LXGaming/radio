@@ -35,6 +35,28 @@ h2 {
     font-family: 'Open Sans', sans-serif;
 }
 
+select {
+    color: deepskyblue;
+    cursor: default;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+    width: 100%;
+    background: #151515;
+    border: none;
+    user-select: none;
+    outline: none;
+}
+
+option {
+    color: white;
+    cursor: default;
+    font-size: 15px;
+    font-weight: 200;
+    font-family: 'Open Sans', sans-serif;
+}
+
 #container {
     width: 100%;
     user-select: none;
