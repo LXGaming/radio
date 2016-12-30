@@ -72,11 +72,7 @@ function clearRows(table) {
 function onChange(id) {
     pauseAll(id);
     onPause(id);
-    setTimeout(function() {
-        if (document.getElementsByClassName("media" + id)[0].paused) {
-            document.getElementsByClassName("media" + id)[0].play();
-        }
-    }, 500);
+    document.getElementsByClassName("media" + id)[0].play();
 }
 
 function onPlay(id) {
