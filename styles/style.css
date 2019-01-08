@@ -1,0 +1,147 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    cursor: default;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: none;
+}
+
+body,
+html {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+body {
+    background-attachment: fixed;
+    background-color: #2C2F33;
+    background-image: url("/images/background.png");
+    background-size: cover;
+    margin: 0 auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+a {
+    color: #039BE5;
+    text-decoration: none;
+    transition: 0.3s ease-out;
+}
+
+a:focus {
+    color: #006AD1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #006AD1;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background: #000000;
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.card.small {
+    display: inline-block;
+    height: auto;
+    width: 200px;
+    margin: 1%;
+}
+
+.card.small .card-content {
+    height: 80px;
+    padding: 16px;
+}
+
+.card.small .card-content p:first-child {
+    font-size: 1.15rem;
+}
+
+.card.small .card-image .btn-floating {
+    bottom: 12px;
+    position: absolute;
+    right: 12px;
+}
+
+.card.small .card-image .btn-floating i {
+    background-color: #F2F2F2;
+    color:#797979;
+}
+
+.footer {
+    background-color: #23272A;
+    bottom: 0;
+    padding: 8px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.footer .footer-content {
+    display: inline-block;
+    overflow: hidden;
+    padding-right: 8px;
+}
+
+.footer .footer-content p {
+    margin: 0;
+}
+
+.footer .footer-content p:first-child {
+    font-size: 1.15rem;
+}
+
+.footer .footer-fab {
+}
+
+.footer .footer-fab .btn-floating i {
+    background-color: #F2F2F2;
+    color:#797979;
+}
+
+.footer .footer-image {
+    display: inline-block;
+    padding-right: 8px;
+}
+
+.footer .footer-image img {
+    height: 48px;
+    width: 48px;
+}
+
+@media only screen and (min-width: 0px) {
+    .card.small {
+        margin: 1%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .card.small {
+        margin: 0.75%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .card.small {
+        margin: 0.5%;
+    }
+}
